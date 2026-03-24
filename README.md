@@ -6,4 +6,5 @@ The Excel document contains three sheets that demonstrate typical randomized dat
 Communication between Excel and Python is handled by an interface add‑in called xlwings.
 Further documentation can be found in the installation guide:
 https://docs.xlwings.org/en/stable/installation.html
+
 xlwings works in both directions: Python code can access data in Excel sheets, and Excel can likewise interact with Python.
